@@ -38,7 +38,7 @@ const App = () => {
             backgroundColor: isRolling ? 'Gold' : theme.color
           }} />
           <span style={{ ...styles.statusLabel, color: theme.color }}>
-            {isRolling ? 'VADIVELU THINKING...' : 'VAIGAI PUYAL READY'}
+            {isRolling ? 'THINKING...' : 'LETS GO!'}
           </span>
         </div>
 
